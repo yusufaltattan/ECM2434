@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="3851a367-3340-467f-b71a-5a22c9ce083e" name="10.4.20.55" url="http://10.4.20.55">
+        <fileTransfer rootFolder="/home/pi/pidjango" accessType="SFTP" host="10.4.20.55" port="22" sshConfigId="4785a3af-c6af-41d8-b31c-ff6cbb6a7f2a" sshConfig="pi@10.4.20.55:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
